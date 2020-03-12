@@ -5,7 +5,7 @@ Repository for assignment 3
 Name: Lucía\
 Surname: Ronchi Darre\
 Result: {'avocado': ['01', '00', '02'], 'tomato': ['03', '01', '00', '02']}\
-Time to execute: -0.000568024999950012\
+Time to execute: -0.000568024999950012
 
 
 ## Installation
