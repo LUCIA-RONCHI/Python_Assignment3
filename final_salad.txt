@@ -1,0 +1,4 @@
+Name: Lucía 
+Surname: Ronchi Darre 
+Result: {'avocado': ['01', '00', '02'], 'tomato': ['03', '01', '00', '02']}
+Time to execute: -0.0002596470000000295
